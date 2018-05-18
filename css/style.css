@@ -1,3 +1,38 @@
 body{
 	background: #f2d994;
 }
+#hdr{
+	font: Monsterrat Hairline;
+	font-size: 16px;
+	color: #e8690d;
+}
+#bdy{
+	font: Monsterrat Extra bold;
+	font-size: 36px;
+	color: #311c10;
+}
+#idty{
+	font: Monsterrat Light;
+	font-size: 16px;
+	color: #311c10;
+}
+.btn-yes{
+	font: Mosterrat Hairline;
+	font-size: 16px;
+	color: #5eb130;
+}
+.btn-no{
+	font: Mosterrat Hairline;
+	font-size: 16px;
+	color: #e52816;
+}
+.btn-link{
+	font: Monsterrat Light;
+	font-size: 16px;
+	color: #311c10;
+}
+.ftr{
+	font: Monsterrat Hairline;
+	font-size: 16px;
+	color: #e8690d;
+}
